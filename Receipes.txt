@@ -5,6 +5,9 @@ Welcome to Satya Kitchen
 Kheer
 pasta
 
+beans
+pizza
+
 
 thank you
 
